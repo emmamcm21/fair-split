@@ -74,7 +74,7 @@ const EspressoEarningsApp = () => {
     <div className="p-4 space-y-6">
       {/* Steps Progress */}
       <div className="bg-green-50 rounded-xl p-6 shadow-sm">
-        <h2 className="text-lg font-medium text-green-900">Today's Steps</h2>
+        '<h2 className="text-lg font-medium text-green-900">Today\'s Steps</h2>'
         <div className="mt-2 flex items-end">
           <div className="text-4xl font-bold text-green-800">{userData.steps.toLocaleString()}</div>
           <div className="ml-2 text-green-600 pb-1">/ {userData.dailyGoal.toLocaleString()} steps</div>
