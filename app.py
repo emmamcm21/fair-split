@@ -195,7 +195,7 @@ const EspressoEarningsApp = () => {
           
           {/* Coffee shop indicators */}
           <circle cx="150" cy="150" r="15" fill="#16a34a" fillOpacity="0.7" stroke="#ffffff" strokeWidth="2" />
-          <text x="140" y="155" fill="#ffffff" fontSize="16" fontWeight="bold">‚òï</text>
+         <text x="140" y="155" fill="#ffffff" fontSize="16" fontWeight="bold">ï</text>
           
           <circle cx="500" cy="150" r="15" fill="#16a34a" fillOpacity="0.7" stroke="#ffffff" strokeWidth="2" />
           <text x="490" y="155" fill="#ffffff" fontSize="16" fontWeight="bold">‚òï</text>
